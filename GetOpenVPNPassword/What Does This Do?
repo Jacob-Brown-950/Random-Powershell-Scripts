@@ -1,0 +1,1 @@
+This script will grab the Password saved in OpenVPN. I have ran into people forgetting it, and you cannot see it in cleartext. I discovered these saved passwords are saved in the registry. This script will extract them in cleartext.
