@@ -7,7 +7,3 @@ These scripts are created for different tasks and scenarios that have come up du
 ## Disclaimer
 
 These scripts are provided as-is, with no warranty. Always review and test any script before using it in a production environment.
-
-## License
-
-MIT License
